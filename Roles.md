@@ -1,4 +1,5 @@
 ### Roles 
+These are roles currently open at the developers guild.
 
 #### Social Media Manager 
 A social media manager is the individual in an organization trusted with monitoring, contributing to, filtering, measuring and otherwise guiding the social media presence of a brand, product, individual or corporation.
