@@ -1,5 +1,3 @@
-# DEVELOPERS’ GUILD CONSTITUTION
-
 ### ARTICLE I – NAME OF CLUB
 
 The name of this club shall be Developers’ Guild.
