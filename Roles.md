@@ -8,3 +8,7 @@ A Event Organizer is the person who schedules an event, and usually the person t
 Be the savior of Developers' Guild and help out with fundraising! Fundraising managers are responsible for raising money for Developers' Guild. Managers need excellent communication skills, both verbal and written. They need to be good at researching and devising strategies and opportunistically taking advantage of donation possibilities
 #### Software Accessibility Advocate
 Up until this point, the largest driving force behind desktop computing environments has been Microsoft, first with MS DOS, followed by variants of Microsoft Windows. These operating systems were not designed with the needs of people with disabilities in mind. Many, including those who were blind or physically disabled, were unable to use applications which were written for Microsoft operating systems.
+### Visual Media and Content Editor 
+Developers Guild is interested in starting an instructional and community oriented YouTube channel.
+You would be able to own and develop projects related to Software Development,
+Engineering and Contributions.
